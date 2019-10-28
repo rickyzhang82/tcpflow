@@ -93,3 +93,6 @@ tests/*.pdf
 tests/out
 tests/packet1.pcap
 *.d
+
+# Ignroe QT project files
+qt-tcpflow.*
